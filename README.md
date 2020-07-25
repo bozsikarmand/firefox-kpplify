@@ -17,3 +17,7 @@ Just copy the __chrome__ folder to your profile folder!
 ## Take a look
 
 ![My userChrome.css file in action](images/intro.png)
+
+# What's next? 
+
+To see my ideas, please check [TODO.md](TODO.md) 
