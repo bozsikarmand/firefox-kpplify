@@ -4,3 +4,4 @@
 * Move "Send to device" from the menu to toolbar
 * Hide the menu icon in address bar
 * Add Shield icon to toolbar
+* Hide spacers
