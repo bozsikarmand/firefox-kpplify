@@ -16,4 +16,4 @@ Just copy the __chrome__ folder to your profile folder!
 
 ## Take a look
 
-![My userChrome.css file in action](images/intro.png@)
+![My userChrome.css file in action](images/intro.png)
